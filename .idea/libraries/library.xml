@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../processing-3.5.3/core/library/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../processing-sound/library/sound.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LeapDeveloperKit_3.2.1_win/LeapDeveloperKit_3.2.1+45911_win/LeapSDK/lib/LeapJava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../oscP5-0.9.8/oscP5/library/oscP5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../processing-3.5.3/core/library/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../processing-3.5.3/core/library/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../processing-sound/library/jsyn-20171016.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../LeapDeveloperKit_3.2.1_win/LeapDeveloperKit_3.2.1+45911_win/LeapSDK/lib/x64" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
